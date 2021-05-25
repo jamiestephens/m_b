@@ -1,6 +1,6 @@
 ## Minimum Viable Product
 
-For my project, 
+For my project, I'll be proposing a data science initiative to a peer to peer lending startup to pre-emptively identify likely non-payers of debt and test various outreach methods through A/B testing to determine if different communication styles (targeted emails, phone calls, or similar) are needed to encourage clients to work out alternative payment plans in advance or add a guarantor to their loan.
 
 ![image](https://user-images.githubusercontent.com/71529189/119572850-65b93700-bd81-11eb-86b5-ff85c5599904.png)
 ![image](https://user-images.githubusercontent.com/71529189/119572869-6d78db80-bd81-11eb-9fbb-a8453e9407e0.png)
