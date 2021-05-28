@@ -27,6 +27,7 @@ Python was used to create a random sample of 20,000 loans issued in 2015 from Le
 Google Sheets was used to organize and manipulate the data after download. Tableau Public was used to create visualizations of the data using 
 
 [Google Drive](https://drive.google.com/drive/folders/1HmsVLN5KYqxKIZJHmSEU_p4LV_lUBu3P?usp=sharing)
+[Tableau Public - Graph 1/2](https://public.tableau.com/app/profile/j.s1481/viz/Book1_16220960333640/Sheet3)
 
 ### Communication
 
